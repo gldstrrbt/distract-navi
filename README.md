@@ -1,0 +1,2 @@
+# distract-navi
+Testing ways to distract my socially needy cat from crying/begging for attention at night, while I'm attempting to get some rest. Right now setting up a Raspberry Pi with a mic and speaker to play sounds or music. First test is with a calling sound I use to get his attention. Next will be to play some soothing instrumental music, seeing that music calms him. If those fail, I may try playing cat meows, but I'm assuming that won't work and may encourage him to audibly beg more. Won't know until it's tested :/
