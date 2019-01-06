@@ -9,4 +9,4 @@ Verbal commands, especially tongue clicking calls, tend to tone him down, so the
 ## Navi Insight
 Navi is a bit strange for a cat due to his social nature, as well as having dog like sensesibilities. He understands verbal commands and visual queues, follows me wherever I walk, loves belly rubs, and is overall (too) friendly. But his social needs and behavior make sense when considering he was a stray, and when I found him he was rolling around in front my apartment building begging passerbys for attention.        
 
-(https://raw.githubusercontent.com/gldstrrbt/distract-overly-social-cat/master/navi-00.jpg)
+!(https://raw.githubusercontent.com/gldstrrbt/distract-overly-social-cat/master/navi-00.jpg)
