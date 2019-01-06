@@ -1,4 +1,4 @@
-# distract-navi
+# distract-overly-social-cat
 
 ## Reason
 Testing ways to distract my overly/oddly social cat, Navi, from crying/begging for attention at night, while I'm attempting to get some rest. He's a bit needy when it comes to affection and play, and loved to wake me throughout the night when seeking either. In order to get a sufficient amount of sleep, he now spends the night just outside of the bedroom, and tends to cry periodically, waking me at random times. White noise generators, fans, and a door draft stopper have helped in blocking out his sound, but not completely. 
