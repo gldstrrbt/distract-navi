@@ -1,5 +1,8 @@
 # distract-overly-social-cat
 
+## Update
+Tested loading up a youtube url with selenium and chromedriver/geckodriver. Ended up being too slow. Replaced with an mp3 file containing the audio from the youtube url that was used. Worked quite well, but he ended up ignoring it after some time. Seeing that Navi likes humans quite a lot and Al Jazeera is more or less calming in its presentation, I decided to place a spare monitor out in the kitchen and play Al Jazeera. It's done just the trick! He's been very calm overnight and even in the morning when wake.
+
 ## Reason
 Testing ways to distract my overly/oddly social cat, Navi, from crying/begging for attention at night, while I'm attempting to get some rest. He's a bit needy when it comes to affection and play, and loved to wake me throughout the night when seeking either. In order to get a sufficient amount of sleep, he now spends the night just outside of the bedroom, and tends to cry periodically, waking me at random times. White noise generators, fans, and a door draft stopper have helped in blocking out his sound, but not completely. 
 
